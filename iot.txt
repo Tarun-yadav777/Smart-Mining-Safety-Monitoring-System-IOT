@@ -1,0 +1,50 @@
+Smart Mining Safety Monitoring System Using Iot.
+
+ABSTRACT:- 
+The Internet of things (IoT) is the extension of Internet connectivity into physical devices and everyday objects. Embedded with electronics, Internet connectivity, and other forms of hardware; these devices can communicate and interact with others over the Internet, and they can be remotely monitored and controlled. In the mining industry, IoT is used as a means of achieving cost and productivity optimization, improving safety measures and developing their artificial intelligence needs.
+
+
+Objective:-
+Mining is one of the industries in which workers have to work under extreme conditions as per the requirement and hundreds of workers die from mining accidents and occupational diseases every year. In order to coordinate various tasks and ensure mining safety, there’s a dire need to install underground monitoring and control systems.
+
+Synopsis :-
+	How IoT is changing the mining industry:-
+		The ability to collect data in near real-time and analyze equipment and environmental data can completely transform the mining industry. Many mining 				companies have  begun to partner with IoT experts and smart solutions providersto monitor operations and improve overall efficiency. Companies are 				deploying connected worker solutions 	and fundamentally transforming mining while improving worker safety.
+
+
+		Worker safety has been one of the biggest issues in mining for a long time. Obvious risks of any mining operations include large pieces of equipment around 				often confined spaces, inability to monitor workers’ health, poor visibility and toxic gases that create hazardous environments. Wearables and gas detection 				sensors monitor the levels of flammable and toxic gas in an environment and alert workers or supervisors so that ventilation and airflow can be kept to optimal 				levels.
+
+		IoT can play a significant role to ensure worker safety in far-flung locations and extreme environments. Wearables like a smart helmet, wrist band and smart vest 		can address potential health risks by constantly monitoring vital signs, cardiac activity and real-time location. This helps supervisors to anticipate and take 				precautionary steps to avoid potential threats.
+
+Literature Survey:-
+		Existing System:- Most of the system proposed right now is mainly working on the dectection of the toxic gas and not focusing on the fact that if the peroson may 					get in contact with these gases need emergency treatment.
+		Introduced System:- Introduced system not only focusing on the toxic gas but also on the other risk like fall damage, worker real-time health monitoring and if 				some unusual event happen labour can have immediate help. 
+
+		Hardware :- Motion Sensor
+			    Electrocardigram Sensor(ECG)
+			    Fall Detection Sensor
+			    Gas Sensor
+			    LED for alerting worker
+			    LCD for alerting monitoring person
+		
+  
+References:-
+https://www.infosysbpm.com/blogs/sourcing-procurement/Pages/iot-in-mining.aspx
+https://www.softwebsolutions.com/resources/industrial-iot-in-mining-industry.html
+https://www.softwebsolutions.com/resources/iot-in-mining-safety.html
+https://espace.curtin.edu.au/bitstream/handle/20.500.11937/70206/267607.pdf?sequence=2&isAllowed=y
+https://innovate.mygov.in/wp-content/uploads/2018/10/mygov1540365102183318.pdf
+https://www.ijrte.org/wp-content/uploads/papers/v8i2/B3762078219.pdf
+https://www.irjet.net/archives/V4/i3/IRJET-V4I3565.pdf
+
+
+Title
+Abstract
+Objective
+Synopsis
+Litrature Survey
+Circuit Diagram/ Hardware 
+Working
+Claims/Industrial Application
+References
+Conclusions
